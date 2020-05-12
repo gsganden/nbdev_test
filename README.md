@@ -1,3 +1,22 @@
-# nbdev template
+# nbdev_test
+> Test nbdev
 
-Use this template to more easily create your nbdev project.
+
+## Install
+
+`pip install nbdev_test`
+
+## How to use
+
+Fill me in please! Don't forget code examples:
+
+```python
+say_hello('Sylvain')
+```
+
+
+
+
+    'Hello Sylvain!'
+
+
